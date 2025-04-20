@@ -21,7 +21,7 @@
 
 ## 🚀 Technologies & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,flask,django,sqlite,postgresql,nodejs,express,git,github,tailwind,figma" height="40℅"/>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,flask,django,sqlite,postgresql,nodejs,express,git,github,tailwind,figma" height="85"/>
 </p>
 
 ---
