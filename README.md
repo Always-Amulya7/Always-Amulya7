@@ -40,18 +40,19 @@
 
 ## 📊 GitHub Stats
 
-<div align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Always-Amulya7&theme=radical" style="max-width: 100%; height: auto;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Always-Amulya7&show_icons=true&theme=radical" style="max-width: 100%; height: auto;" />
-</div>
+<p>
+  &nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=Always-Amulya7&theme=radical"
+         alt="GitHub Streak" />
+  &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Always-Amulya7&show_icons=true&theme=radical"
+         alt="GitHub Stats"/>
+</p>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Always-Amulya7&layout=compact&theme=radical" style="max-width: 100%; height: auto;" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" style="width: 150px; height: auto;" />
-</div>
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Always-Amulya7&layout=compact&theme=radical"
+         alt="Top Languages" />
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"
+         alt="About Me GIF" height="150" width="150" />
+</p>
 
 ## 🌐 Connect with Me
 
