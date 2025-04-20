@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I am Amulya Shrivastava</h1>
+<h2 align="center">Hi 👋 I am Amulya Shrivastava</h2>
 <h2 align="center" style="margin-top: -5px;">Budding Software Development Engineering | Student at SOA | ITER-27 ' B. Tech</h2>
 
 <p align="center">
@@ -45,10 +45,12 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Always-Amulya7&show_icons=true&theme=radical" style="max-width: 100%; height: auto;" />
 </div>
 
-<div align="left">
-     <br>
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Always-Amulya7&layout=compact&theme=radical" style="max-width: 100%; height: auto;" />
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" style="width: 150px; height: auto;" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" style="width: 150px; height: auto;" />
 </div>
 
 ## 🌐 Connect with Me
