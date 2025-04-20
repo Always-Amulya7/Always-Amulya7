@@ -1,4 +1,4 @@
-<h1 align="center">Amulya Shrivastava</h1>
+<h2 align="center">Amulya Shrivastava 👋 </h2>
 <h2 align="center" style="margin-top: -5px;">Budding Software Development Engineering | Student at SOA | ITER-27 ' B. Tech</h2>
 
 <p align="center">
@@ -63,6 +63,7 @@
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"
          alt="About Me GIF" height="150" width="150" />
 </p>
+
 ## 🌐 Connect with Me
 
 <p align="left">
