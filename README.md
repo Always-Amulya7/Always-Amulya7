@@ -41,10 +41,20 @@
 ## 📊 GitHub Stats
 
 <p>
-  &nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=Always-Amulya7&theme=radical"
-         alt="GitHub Streak" />
-  &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Always-Amulya7&show_icons=true&theme=radical"
-         alt="GitHub Stats"/>
+  &nbsp;<img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Always-Amulya7&theme=radical"
+    alt="always-amulya7"
+  />
+</p>
+
+<p>
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=Always-Amulya7&show_icons=true&theme=radical"
+    alt="always-amulya7"
+    width=499px
+  />
 </p>
 
 <p>
@@ -53,7 +63,6 @@
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"
          alt="About Me GIF" height="150" width="150" />
 </p>
-
 ## 🌐 Connect with Me
 
 <p align="left">
