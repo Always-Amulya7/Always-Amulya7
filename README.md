@@ -1,9 +1,5 @@
-<p align="center" style="margin-bottom: -10px;">
-     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=600&height=45&lines=Hi👋+I'm+Amulya+Shrivastava...;Student+At+Siksha+'O'+Anusandhan...;Pursuing+B.Tech+In+Computer+Science+And+Engineering...;&center=true">
-</p>
-
+<h1 align="center">Hi 👋 I am Amulya Shrivastava</h1>
 <h2 align="center" style="margin-top: -5px;">Budding Software Development Engineering | Student at SOA | ITER-27 ' B. Tech</h2>
-
 
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D5616AQEG2z4mdjhtuw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724150167924?e=1750896000&v=beta&t=XaT_Z8bEydDFtNlUPCTd22gHRs_yHgwQirzSXr9bjFk" width="100%" alt="Coding GIF">
@@ -44,15 +40,16 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Always-Amulya7&theme=radical" height="100%" width="70%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Always-Amulya7&show_icons=true&theme=radical" height="100%" width="70%" />
-</p>
+<div align="left">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Always-Amulya7&theme=radical" style="max-width: 100%; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Always-Amulya7&show_icons=true&theme=radical" style="max-width: 100%; height: auto;" />
+</div>
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Always-Amulya7&layout=compact&theme=radical" height="100%" />
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="150px"/>
-</p>
+<div align="left">
+     <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Always-Amulya7&layout=compact&theme=radical" style="max-width: 100%; height: auto;" />
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" style="width: 150px; height: auto;" />
+</div>
 
 ## 🌐 Connect with Me
 
