@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋 I am Amulya Shrivastava</h2>
+<h1 align="center">Mr. Amulya Shrivastava</h1>
 <h2 align="center" style="margin-top: -5px;">Budding Software Development Engineering | Student at SOA | ITER-27 ' B. Tech</h2>
 
 <p align="center">
