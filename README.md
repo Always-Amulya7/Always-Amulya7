@@ -2,7 +2,7 @@
 <h2 align="center" style="margin-top: -5px;">Budding Software Development Engineering | Student at SOA | ITER-27 ' B. Tech</h2>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQEG2z4mdjhtuw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724150167924?e=1750896000&v=beta&t=XaT_Z8bEydDFtNlUPCTd22gHRs_yHgwQirzSXr9bjFk" width="100%" alt="Coding GIF">
+  <img src="https://drive.google.com/file/d/168VqC4dgdW3KzfTX3-DaShEJrvnYRAGC/view?usp=sharing" width="100%" alt="Coding GIF">
 </p>
 
 ---
