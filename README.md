@@ -1,5 +1,5 @@
 <h2 align="center">Amulya Shrivastava 👋 </h2>
-<h2 align="center" style="margin-top: -5px;">Budding Software Development Engineering | Student at SOA | ITER-27 ' B. Tech</h2>
+<h2 align="center" style="margin-top: -5px;">Aspiring Software Developer | Student at SOA-ITER-27 | B. Tech</h2>
 
 <p align="center">
   <img src="Background.jpg" width="100%" alt="Coding GIF">
@@ -9,12 +9,12 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Cs Undergrad | Passionate About Computational Problem-Solving  
-- 🔍 Exploring Advanced **Programming**, **Algorithms**, And **Optimization** Techniques  
-- 💡 Enthusiast For Clean Ui + Powerful Backend Systems  
-- 📈 Diving Deeper Into **Ai**, **Data Science**, And Advanced **Python**  
-- 🔐 Keen On Security, **Encryption**, And Data Protection Methodologies  
-- 🧠 Always **Learning**, **Always Building**  
+- 🎓 CS Undergrad | Passionate About Computational Problem-Solving.
+- 🔍 Exploring Advanced **Programming**, **Algorithms**, And **Optimization** Techniques. 
+- 💡 Enthusiast For Clean Ui + Powerful Backend Systems.
+- 📈 Diving Deeper Into **Artificial Intelligence**, **Cyber Security**, And Advanced **Python**.  
+- 🔐 Keen On Security, **Encryption**, And Data Protection Methodologies.
+- 🧠 Always **Learning**, **Always Building**.
   
 
 ---
@@ -22,20 +22,64 @@
 ## 🚀 Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,flask,django,sqlite,postgresql,nodejs,express,git,github,tailwind,figma"/>
+  <img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,react,next,vite,django,nodejs,express,tailwind,figma,typescript,sqlite,postgresql,mongodb,tensorflow,wordpress,aws,azure,netlify,vercel,git,github"/>
 </p>
 
 ---
+<h2>🌟 Areas Of Expertise</h2>
 
-## 🌟 Areas Of Expertise  
+<table style="width:100%; border-collapse: collapse; border: 1px solid #ccc; font-family: Arial, sans-serif;">
+  <tr>
+    <td style="border: 1px solid #ccc; padding: 10px; vertical-align: top;">
+      <ul style="margin: 0; padding-left: 20px;">
+        <li><strong>Data Structures & Algorithms</strong></li>
+        <li>Computer Architecture</li>
+        <li>Genkit</li>
+      </ul>
+    </td>
+    <td style="border: 1px solid #ccc; padding: 10px; vertical-align: top;">
+      <ul style="margin: 0; padding-left: 20px;">
+        <li>Compute Network</li>
+        <li>Database Management System (DBMS)</li>
+        <li>Gemini CLI</li>
+      </ul>
+    </td>
+    <td style="border: 1px solid #ccc; padding: 10px; vertical-align: top;">
+      <ul style="margin: 0; padding-left: 20px;">
+        <li>Artificial Intelligence Fundamentals</li>
+        <li>OOPS Concept</li>
+        <li>Render</li>
+      </ul>
+    </td>
+    <td style="border: 1px solid #ccc; padding: 10px; vertical-align: top;">
+      <ul style="margin: 0; padding-left: 20px;">
+        <li>Web&nbsp;Development</li>
+        <li>Amazon AWS</li>
+        <li>Firebase Studio</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-- 🚀 **Innovative Problem-Solving** – Crafting Efficient Solutions With Advanced Algorithms  
-- 🔍 **Deep Tech Exploration** – Diving Into Ai, Data Science, And System Optimization  
-- 🛠 **Backend Mastery** – Building Secure, Scalable, And High-Performance Architectures  
-- 🎨 **Ui/Ux Excellence** – Creating Seamless, User-Friendly Interfaces With Aesthetic Precision  
-- 🔐 **Security & Encryption** – Ensuring Robust Data Protection And Secure Communication  
 
+---
 
+### 🔧 Professional Strengths
+
+- 🚀 **Innovative Problem-Solving**  
+  Delivering clean solutions through logical and analytical thinking.
+
+- 🔍 **Deep Tech Exploration**  
+  Exploring AI, data science, and systems to push technological boundaries.
+
+- 🛠 **Backend Mastery**  
+  Designing secure, high-performance architectures for scalable applications.
+
+- 🎨 **UI/UX Excellence**  
+  Building responsive, user-focused interfaces that combine clarity with elegance.
+
+- 🔐 **Security & Encryption**  
+  Applying strong security practices to ensure data protection and safe communication.
 
 ---
 
