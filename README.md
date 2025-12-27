@@ -1,12 +1,11 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=550&height=70&duration=3700&lines=Build,+Debug,+Repeat!;Hello+🙏+I'm+Amulya+Shrivastava;Explore,+Fork,+Star,+Repeat!" />
 </h1>
-
 <p align="center">
   <img src="Background.jpg" width="100%" alt="Coding GIF">
 </p>
 
-<h3 style="margin-top: -5px; border-radius: 15px;">Budding SDE | Java & Python | MERN Stack Developer | LLM Engineering & Cloud Practitioner | B.Tech @SOA ITER ’27</h3>
+<h3 style="margin-top: -5px; border-radius: 15px;">Pre Final Year Student | Budding SDE | Java & Python | MERN Stack Developer | LLM Engineering & Cloud Practitioner | B.Tech @SOA ITER ’27</h3>
 
 ## 🧑‍💻 About Me
 
@@ -97,7 +96,6 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/amulya-shrivastava-11a0a9288/" target="_blank">
     <img
       align="center"
@@ -107,8 +105,6 @@
       width="40"
     />
   </a>
-
-  <!-- Facebook -->
   <a href="https://www.facebook.com/amulyadeep.amulyadeep.3" target="_blank">
     <img
       align="center"
@@ -118,8 +114,6 @@
       width="40"
     />
   </a>
-
-  <!-- Instagram -->
   <a href="https://www.instagram.com/always_amulya7/" target="_blank">
     <img
       align="center"
@@ -129,8 +123,6 @@
       width="40"
     />
   </a>
-
-  <!-- Telegram -->
   <a href="https://t.me/AlwaysAmulya7" target="_blank">
     <img
       align="center"
@@ -140,8 +132,6 @@
       width="40"
     />
   </a>
-
-  <!-- Discord -->
   <a href="https://discord.com/users/always-amulya7" target="_blank">
     <img
       align="center"
