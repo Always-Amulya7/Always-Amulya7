@@ -1,87 +1,72 @@
-<h2 align="center">Amulya Shrivastava 👋 </h2>
-<h2 align="center" style="margin-top: -5px;">Aspiring Software Developer | Student at SOA-ITER-27 | B. Tech</h2>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=550&height=70&duration=3700&lines=Build,+Debug,+Repeat!;Hello+🙏+I'm+Amulya+Shrivastava;Explore,+Fork,+Star,+Repeat!" />
+</h1>
 
 <p align="center">
   <img src="Background.jpg" width="100%" alt="Coding GIF">
 </p>
 
----
+<h3 style="margin-top: -5px; border-radius: 15px;">Budding SDE | Java & Python | MERN Stack Developer | LLM Engineering & Cloud Practitioner | B.Tech @SOA ITER ’27</h3>
 
 ## 🧑‍💻 About Me
 
-- 🎓 CS Undergrad | Passionate About Computational Problem-Solving.
-- 🔍 Exploring Advanced **Programming**, **Algorithms**, And **Optimization** Techniques. 
-- 💡 Enthusiast For Clean Ui + Powerful Backend Systems.
-- 📈 Diving Deeper Into **Artificial Intelligence**, **Cyber Security**, And Advanced **Python**.  
-- 🔐 Keen On Security, **Encryption**, And Data Protection Methodologies.
-- 🧠 Always **Learning**, **Always Building**.
-  
-
----
+- Software engineer in the making, exploring and practicing LLM engineering.
+- Strong foundation in core programming concepts and problem-solving.
+- Self-taught web developer and AI agent builder.
+- Contributed to 30+ open-source projects through GSSoC ’25, OSCI ’25, SWOC ’25, and Hacktoberfest ’25.
+- Self-driven learner with a strong work ethic and leadership mindset.
 
 ## 🚀 Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,react,next,vite,django,nodejs,express,tailwind,figma,typescript,sqlite,postgresql,mongodb,tensorflow,wordpress,aws,azure,netlify,vercel,git,github"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,bootstrap,react,nextjs,vite,django,firebase,nodejs,express,tailwind,figma,sqlite,mongodb,aws,netlify,vercel,git,github,vscode" />
 </p>
 
----
-<h2>🌟 Areas Of Expertise</h2>
+### 🌟 Areas Of Expertise
 
-<table style="width:100%; border-collapse: collapse; border: 1px solid #ccc; font-family: Arial, sans-serif;">
-  <tr>
-    <td style="border: 1px solid #ccc; padding: 10px; vertical-align: top;">
-      <ul style="margin: 0; padding-left: 20px;">
-        <li><strong>Data Structures & Algorithms</strong></li>
-        <li>Computer Architecture</li>
-        <li>Genkit</li>
-      </ul>
-    </td>
-    <td style="border: 1px solid #ccc; padding: 10px; vertical-align: top;">
-      <ul style="margin: 0; padding-left: 20px;">
-        <li>Compute Network</li>
-        <li>Database Management System (DBMS)</li>
-        <li>Gemini CLI</li>
-      </ul>
-    </td>
-    <td style="border: 1px solid #ccc; padding: 10px; vertical-align: top;">
-      <ul style="margin: 0; padding-left: 20px;">
-        <li>Artificial Intelligence Fundamentals</li>
-        <li>OOPS Concept</li>
-        <li>Render</li>
-      </ul>
-    </td>
-    <td style="border: 1px solid #ccc; padding: 10px; vertical-align: top;">
-      <ul style="margin: 0; padding-left: 20px;">
-        <li>Web&nbsp;Development</li>
-        <li>Amazon AWS</li>
-        <li>Firebase Studio</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center" style="font-size: 14px;">
+  <table width="100%" cellpadding="10" cellspacing="0" style="border-collapse: collapse;">
+    <tr>
+      <td width="25%" style="border: 1px solid #888; vertical-align: top;">
+        <ul>
+          <li><strong>Data Structures & Algorithms</strong></li>
+          <li>Computer Architecture</li>
+          <li>Genkit</li>
+        </ul>
+      </td>
+      <td width="25%" style="border: 1px solid #888; vertical-align: top;">
+        <ul>
+          <li>Computer Network</li>
+          <li>Database Management System (DBMS)</li>
+          <li>Gemini CLI</li>
+        </ul>
+      </td>
+      <td width="25%" style="border: 1px solid #888; vertical-align: top;">
+        <ul>
+          <li>Artificial Intelligence Fundamentals</li>
+          <li>OOPS Concept</li>
+          <li>Render</li>
+        </ul>
+      </td>
+      <td width="25%" style="border: 1px solid #888; vertical-align: top;">
+        <ul>
+          <li>Web Development</li>
+          <li>Amazon AWS</li>
+          <li>Firebase Studio</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
----
+## 🔧 Professional Strengths
 
-### 🔧 Professional Strengths
-
-- 🚀 **Innovative Problem-Solving**  
-  Delivering clean solutions through logical and analytical thinking.
-
-- 🔍 **Deep Tech Exploration**  
-  Exploring AI, data science, and systems to push technological boundaries.
-
-- 🛠 **Backend Mastery**  
-  Designing secure, high-performance architectures for scalable applications.
-
-- 🎨 **UI/UX Excellence**  
-  Building responsive, user-focused interfaces that combine clarity with elegance.
-
-- 🔐 **Security & Encryption**  
-  Applying strong security practices to ensure data protection and safe communication.
-
----
+- Self-driven learner with open-source contributions and a collaborative, growth-oriented mindset.
+- Strong foundation in core computer science concepts including DSA, OOP, DBMS, and computer networks.
+- Hands-on backend experience with APIs, real-time systems, authentication, webdev, Agentic AI and cloud.
+- Aspiring software engineer actively building and practicing in LLM engineering using Genkit and Gemini APIs.
+- Experienced in developing secure, scalable full-stack applications with Next.js, React, Django, and Node.js.
 
 ## 📊 GitHub Stats
 
@@ -112,59 +97,62 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/amulya-shrivastava-11a0a9288/"
-    target="blank"
-    ><img
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/amulya-shrivastava-11a0a9288/" target="_blank">
+    <img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/amulya-shrivastava-11a0a9288/"
+      alt="LinkedIn"
       height="30"
       width="40"
-  /></a>
-  <a
-    href="https://instagram.com/https://www.instagram.com/always_amulya7/#"
-    target="blank"
-    ><img
+    />
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/amulyadeep.amulyadeep.3" target="_blank">
+    <img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="https://www.facebook.com/amulyadeep.amulyadeep.3#"
+      alt="Facebook"
       height="30"
       width="40"
-  /></a>
-  <a
-    href="https://instagram.com/https://www.instagram.com/always_amulya7/#"
-    target="blank"
-    ><img
+    />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/always_amulya7/" target="_blank">
+    <img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="https://www.instagram.com/always_amulya7/#"
+      alt="Instagram"
       height="30"
       width="40"
-  /></a>
-  <a href="https://t.me/AlwaysAmulya7" target="blank" style="display:inline-block;">
-  <img
-    align="center"
-    src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
-    alt="Telegram"
-    height="35"
-    width="40"
-  />
-</a>
-  <a
-    href="https://instagram.com/https://www.instagram.com/always_amulya7/#"
-    target="blank"
-    ><img
+    />
+  </a>
+
+  <!-- Telegram -->
+  <a href="https://t.me/AlwaysAmulya7" target="_blank">
+    <img
+      align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
+      alt="Telegram"
+      height="35"
+      width="40"
+    />
+  </a>
+
+  <!-- Discord -->
+  <a href="https://discord.com/users/always-amulya7" target="_blank">
+    <img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-      alt="https://discord.com/users/always-amulya7"
-      height="40"
+      alt="Discord"
+      height="35"
       width="40"
-  /></a>
+    />
+  </a>
 </p>
 
-
----
 
 > ⭐️ *Thanks For Visiting My GitHub Profile! If You Like What You See, Give A Star To Your Favorite Repository And Let’s Connect!*
 
