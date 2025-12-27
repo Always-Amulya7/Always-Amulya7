@@ -6,6 +6,10 @@
 </p>
 
 <h3 style="margin-top: -5px; border-radius: 15px;">Pre Final Year Student | Budding SDE | Java & Python | MERN Stack Developer | LLM Engineering & Cloud Practitioner | B.Tech @SOA ITER ’27</h3>
+<h4 style="margin-top: -5px; border-radius: 15px;">
+  View my - <a href="https://amulyashrivastava10.netlify.app/" target="_blank">PortFolio</a>
+</h4>
+
 
 ## 🧑‍💻 About Me
 
@@ -14,6 +18,7 @@
 - Self-taught web developer and AI agent builder.
 - Contributed to 30+ open-source projects through GSSoC ’25, OSCI ’25, SWOC ’25, and Hacktoberfest ’25.
 - Self-driven learner with a strong work ethic and leadership mindset.
+- Take a quick view - <a href="https://drive.google.com/file/d/1OpEl-y-SGZAM6ZmqkjYhnzLoHSkUwsHU/view" target="_blank">Resume</a>
 
 ## 🚀 Technologies & Tools
 
@@ -75,23 +80,27 @@
     src="https://github-readme-streak-stats.herokuapp.com/?user=Always-Amulya7&theme=radical"
     alt="always-amulya7"
   />
+  <br><br>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Always-Amulya7&layout=compact&theme=radical"
+         alt="Top Languages" />
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"
+         alt="About Me GIF" height="150" width="150" />
 </p>
 
-<p>
+<!--<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Always-Amulya7&layout=compact&theme=radical"
+         alt="Top Languages" />
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"
+         alt="About Me GIF" height="150" width="150" />
+</p>-->
+<!--<p>
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=Always-Amulya7&show_icons=true&theme=radical"
     alt="always-amulya7"
     width=499px
   />
-</p>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Always-Amulya7&layout=compact&theme=radical"
-         alt="Top Languages" />
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"
-         alt="About Me GIF" height="150" width="150" />
-</p>
+</p>-->
 
 ## 🌐 Connect with Me
 
