@@ -72,8 +72,10 @@
 - Aspiring software engineer actively building and practicing in LLM engineering using Genkit and Gemini APIs.
 - Experienced in developing secure, scalable full-stack applications with Next.js, React, Django, and Node.js.
 
-## 📊 GitHub Stats
-
+<!--## 📊 GitHub Stats-->
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"
+         alt="About Me GIF" height="150" width="150" />
+<!--
 <p>
   &nbsp;<img
     align="center"
@@ -85,7 +87,7 @@
          alt="Top Languages" />
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"
          alt="About Me GIF" height="150" width="150" />
-</p>
+</p>-->
 
 <!--<p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Always-Amulya7&layout=compact&theme=radical"
