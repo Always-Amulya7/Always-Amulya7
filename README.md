@@ -18,7 +18,7 @@
 - Self-taught web developer and AI agent builder.
 - Contributed to 30+ open-source projects through GSSoC ’25, OSCI ’25, SWOC ’25, and Hacktoberfest ’25.
 - Self-driven learner with a strong work ethic and leadership mindset.
-- Take a quick view - <a href="https://drive.google.com/file/d/135qmdnrHct89NVwQakB6qBAQCUzvhbeE/view?usp=drive_link" target="_blank">Resume</a>
+- Take a quick view - <a href="https://drive.google.com/file/d/1y90VOpjJASAV4vCSmzgsv0Zn3lPsY7RK/view?usp=sharing" target="_blank">Resume</a>
 
 ## 🚀 Technologies & Tools
 
